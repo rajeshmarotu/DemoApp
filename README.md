@@ -1,4 +1,6 @@
 
-1. npm install
+1. Clone repo
 
-2. npm start
+2. npm install
+
+3. npm start
